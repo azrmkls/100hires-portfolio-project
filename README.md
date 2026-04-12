@@ -51,8 +51,8 @@ This reinforced the importance of working within the correct directory context w
 ### 3. Git Identity Unknown
 - Error: Git required user.name and user.email
 - Solution:
-  - git config --global user.name "Azri"
-  - git config --global user.email "your@email.com"
+  - git config --global user.name "azrmkls"
+  - git config --global user.email "azrmkls@email.com"
 
 **Insight:**  
 This step clarified how Git tracks authorship and why proper configuration is required before committing changes.

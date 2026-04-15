@@ -1,6 +1,7 @@
 # 100hires-portfolio-project
 
 ## Overview
+
 This project documents the setup of AI-assisted development tools using Cursor IDE, Claude Code, and Codex.
 
 The goal is to demonstrate independent learning, problem-solving, and ability to work with AI tools.
@@ -8,6 +9,7 @@ The goal is to demonstrate independent learning, problem-solving, and ability to
 ---
 
 ## Tools Installed
+
 - Cursor IDE
 - Claude Code extension
 - Codex extension
@@ -31,6 +33,7 @@ The goal is to demonstrate independent learning, problem-solving, and ability to
 ## Issues Encountered & Solutions
 
 ### 1. Claude Code Error (Git Bash Missing)
+
 - Error: Claude Code requires git-bash
 - Solution: Installed Git from official website
 
@@ -40,6 +43,7 @@ This issue highlighted that some AI tools depend on underlying system environmen
 ---
 
 ### 2. Git Not Recognized / Not a Repository
+
 - Error: "not a git repository"
 - Solution: Navigated to correct project folder and ran `git init`
 
@@ -49,10 +53,11 @@ This reinforced the importance of working within the correct directory context w
 ---
 
 ### 3. Git Identity Unknown
+
 - Error: Git required user.name and user.email
 - Solution:
   - git config --global user.name "azrmkls"
-  - git config --global user.email "azrmkls@gmail.com"
+  - git config --global user.email "[azrmkls@gmail.com](mailto:azrmkls@gmail.com)"
 
 **Insight:**  
 This step clarified how Git tracks authorship and why proper configuration is required before committing changes.
@@ -60,6 +65,7 @@ This step clarified how Git tracks authorship and why proper configuration is re
 ---
 
 ### 4. Authentication Issue
+
 - Git required browser login
 - Completed authentication via GitHub login
 
@@ -81,6 +87,7 @@ This showed how Git integrates with remote platforms like GitHub and requires au
 ## Reflection
 
 This project reinforced my ability to:
+
 - Solve technical issues independently by breaking them into smaller problems
 - Validate and interpret AI-generated outputs instead of relying on them blindly
 - Adapt quickly when encountering unfamiliar tools and environments
@@ -93,3 +100,4 @@ This project reinforced my ability to:
 - Test Claude Code and Codex on a real-world task (e.g., generating and refining content or analysis workflows)
 - Explore ways to automate setup using scripts to improve repeatability
 - Build a simple project using these tools to evaluate their strengths and limitations in practical use
+

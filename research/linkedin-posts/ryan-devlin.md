@@ -5,17 +5,16 @@
 - Role: SaaS & B2B Growth Strategist
 - Company: Missing Link
 - Platform: LinkedIn
-- Profile Link: [paste LinkedIn profile link]
+- Profile Link: [linkedin.com/in/ryan-devlin13]
 
 ## Selection Rationale
 - Why this expert was selected: Good content around strategy, pipeline quality, revenue metrics, and sales-marketing alignment.
 - What strategic lens this expert adds to the research: Explains how growth breaks when departments optimize separately, and how better organic content can support shared commercial outcomes.
 
 ## Reviewed Content Dates
-- 6 days ago (sampled post)
-- 5 days ago (sampled post)
-- [Recent profile/about review via screenshot]
-- [Add more dates if collected later]
+- 6 days ago
+- 5 days ago
+- 1 week ago
 
 ## Reviewed Posts
 
@@ -36,6 +35,15 @@
 - Key Insight: Good B2B content should expose system failures and reframe them into strategic operating principles.
 - Relevance to B2B SaaS LinkedIn organic strategy: Strongly relevant because it shows how thought leadership can connect commercial pain points to practical strategic concepts.
 - Reusable Takeaway: Organic content should diagnose hidden growth friction, not just celebrate top-line activity metrics.
+
+### Post 3
+- Date: 1 week ago
+- Access Method: manual screenshot capture
+- Topic: The strongest growth levers often sit between departments, not inside one function.
+- Summary: Ryan uses the example of a simple “member since” signal to show how one asset can influence acquisition, conversion, and retention at the same time. He argues that companies miss these leverage points because they divide growth into separate departmental silos, while the most powerful drivers usually live in the overlap. The post is strategically strong because it turns a simple example into a broader commercial systems insight.
+- Key Insight: Growth content becomes more valuable when it identifies cross-functional leverage instead of treating marketing, sales, and retention as isolated topics.
+- Relevance to B2B SaaS LinkedIn organic strategy: Highly relevant because it shows how thought leadership can frame shared commercial outcomes and make strategic overlap visible.
+- Reusable Takeaway: Organic content can be more powerful when it highlights how one strategic decision affects multiple growth functions at once.
 
 ## Content Pattern Analysis
 - Recurring themes: sales-marketing alignment, pipeline quality, growth systems, revenue metrics, strategic execution

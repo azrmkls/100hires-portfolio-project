@@ -5,14 +5,15 @@
 - Role: B2B Marketing Leader / GTM Strategy / Product Marketing / Demand Generation
 - Company: Sanas
 - Platform: LinkedIn
-- Profile Link: [paste LinkedIn profile link]
+- Profile Link: [linkedin.com/in/anindyaaghosh]
 
 ## Selection Rationale
 - Why this expert was selected: Strong B2B SaaS operator with direct alignment to positioning, demand systems, GTM strategy, and pipeline-oriented marketing.
 - What strategic lens this expert adds to the research: Treats marketing as growth infrastructure rather than just communications.
 
 ## Reviewed Content Dates
-- 1 year ago (sampled post)
+- 1 year ago
+- 1 year ago
 - [Recent profile/about review via screenshot]
 - [Add more dates if collected later]
 

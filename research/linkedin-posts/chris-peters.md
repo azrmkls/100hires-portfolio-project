@@ -5,7 +5,7 @@
 - Role: B2B Influencer Marketing operator
 - Company: Moon at Dawn
 - Platform: LinkedIn
-- Profile Link: [paste LinkedIn profile link]
+- Profile Link: [linkedin.com/in/christopherpetersv2]
 
 ## Selection Rationale
 - Why this expert was selected: Strong perspective on B2B influencer-led demand, trusted voices, and LinkedIn campaign effectiveness within modern GTM.

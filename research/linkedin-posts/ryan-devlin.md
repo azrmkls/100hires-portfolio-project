@@ -5,7 +5,7 @@
 - Role: SaaS & B2B Growth Strategist
 - Company: Missing Link
 - Platform: LinkedIn
-- Profile Link: [linkedin.com/in/ryan-devlin13]
+- Profile Link: https://www.linkedin.com/in/ryan-devlin13/
 
 ## Selection Rationale
 - Why this expert was selected: Good content around strategy, pipeline quality, revenue metrics, and sales-marketing alignment.
@@ -13,28 +13,27 @@
 
 ## Reviewed Content Dates
 - 6 days ago
-- 5 days ago
-- 1 week ago
+- 1 week ago (2 sampled posts)
 
 ## Reviewed Posts
 
 ### Post 1
 - Date: 6 days ago
 - Access Method: manual screenshot capture
-- Topic: The best growth levers often sit between departments, not inside one silo.
-- Summary: Ryan uses the example of a simple “member since” feature to show how one asset can support acquisition, conversion, and retention at once. He argues that companies miss growth because they split responsibility into silos instead of recognizing overlap.
-- Key Insight: Strong growth content should identify leverage points that improve multiple commercial functions at the same time.
-- Relevance to B2B SaaS LinkedIn organic strategy: Relevant because it demonstrates systems thinking and gives a useful model for cross-functional content angles.
-- Reusable Takeaway: LinkedIn organic content can be stronger when it highlights overlap between marketing, sales, and retention rather than treating them as isolated topics.
-
-### Post 2
-- Date: 5 days ago
-- Access Method: manual screenshot capture
 - Topic: B2B marketing fails more from poor strategy than poor execution.
 - Summary: Ryan argues that marketing often hits lead targets while sales rejects the quality, because each team is optimizing for different outcomes. He frames the real issue as structural misalignment and highlights revenue metrics, intent data, and shared success definitions as solutions.
 - Key Insight: Good B2B content should expose system failures and reframe them into strategic operating principles.
 - Relevance to B2B SaaS LinkedIn organic strategy: Strongly relevant because it shows how thought leadership can connect commercial pain points to practical strategic concepts.
 - Reusable Takeaway: Organic content should diagnose hidden growth friction, not just celebrate top-line activity metrics.
+
+### Post 2
+- Date: 1 week ago
+- Access Method: manual screenshot capture
+- Topic: The best growth levers often sit between departments, not inside one silo.
+- Summary: Ryan uses the example of a simple “member since” feature to show how one asset can support acquisition, conversion, and retention at once. He argues that companies miss growth because they split responsibility into silos instead of recognizing overlap.
+- Key Insight: Strong growth content should identify leverage points that improve multiple commercial functions at the same time.
+- Relevance to B2B SaaS LinkedIn organic strategy: Relevant because it demonstrates systems thinking and gives a useful model for cross-functional content angles.
+- Reusable Takeaway: LinkedIn organic content can be stronger when it highlights overlap between marketing, sales, and retention rather than treating them as isolated topics.
 
 ### Post 3
 - Date: 1 week ago

@@ -5,19 +5,19 @@
 - Role: B2B Influencer Marketing operator
 - Company: Moon at Dawn
 - Platform: LinkedIn
-- Profile Link: [linkedin.com/in/christopherpetersv2]
+- Profile Link: https://www.linkedin.com/in/christopherpetersv2/
 
 ## Selection Rationale
 - Why this expert was selected: Strong perspective on B2B influencer-led demand, trusted voices, and LinkedIn campaign effectiveness within modern GTM.
 - What strategic lens this expert adds to the research: Expands LinkedIn organic beyond posting for engagement into trust, influence, and pipeline impact.
 
 ## Reviewed Content Dates
-- 1 hour ago
+- 1 day ago
 
 ## Reviewed Posts
 
 ### Post 1
-- Date: 1 hour ago
+- Date: 1 day ago
 - Access Method: manual screenshot capture
 - Topic: B2B influencers impact the full brand-to-demand journey.
 - Summary: Chris argues that B2B influencers are no longer just a social media experiment. He positions trusted third-party voices as a performance lever that improves engagement, increases recommendation quality, and strengthens GTM execution across LinkedIn and broader buyer journeys.

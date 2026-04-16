@@ -7,15 +7,14 @@ leonhard-draxl.md
 - Role: Product Marketing & GTM Leader
 - Company: Zeno
 - Platform: LinkedIn
-- Profile Link: [linkedin.com/in/leodraxl]
+- Profile Link: https://www.linkedin.com/in/leodraxl/
 
 ## Selection Rationale
 - Why this expert was selected: Strong B2B SaaS product marketing operator with clear emphasis on positioning, differentiated messaging, and repeatable GTM motions.
 - What strategic lens this expert adds to the research: Shows how organic content can support market education and commercial clarity in complex SaaS environments.
 
 ## Reviewed Content Dates
-- 1 year ago
-- 1 year ago
+- 1 year ago (2 sampled posts)
 
 ## Reviewed Posts
 

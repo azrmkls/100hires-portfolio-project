@@ -5,7 +5,7 @@
 - Role: Founder
 - Company: Secure GTM
 - Platform: LinkedIn
-- Profile Link: [linkedin.com/in/mollykconway]
+- Profile Link: https://www.linkedin.com/in/mollykconway/
 
 ## Selection Rationale
 - Why this expert was selected: Strong B2B SaaS GTM operator with consistent writing on buyer research, positioning, and market messaging.

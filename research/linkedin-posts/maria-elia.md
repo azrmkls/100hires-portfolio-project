@@ -5,7 +5,7 @@
 - Role: Enterprise SaaS Product Marketing Leader
 - Company: JRD Systems
 - Platform: LinkedIn
-- Profile Link: [linkedin.com/in/mariaelia]
+- Profile Link: https://www.linkedin.com/in/mariaelia/
 
 ## Selection Rationale
 - Why this expert was selected: Strong on turning positioning and cross-functional alignment into revenue outcomes.
@@ -13,27 +13,27 @@
 
 ## Reviewed Content Dates
 - 6 days ago
-- 5 days ago
+- 1 week ago
 
 ## Reviewed Posts
 
 ### Post 1
 - Date: 6 days ago
 - Access Method: manual screenshot capture
-- Topic: GTM fails when product value is not clearly connected to positioning, alignment, and revenue.
-- Summary: Maria explains that strong products often underperform because positioning is unclear, sales cannot articulate value, and teams are not aligned. She shows how simplifying the narrative and aligning product, sales, and marketing improves adoption and revenue.
-- Key Insight: Clear positioning and cross-functional alignment are not branding exercises; they are direct revenue levers.
-- Relevance to B2B SaaS LinkedIn organic strategy: Highly relevant because it models how LinkedIn content can explain GTM failure points in a commercially clear, story-driven way.
-- Reusable Takeaway: Organic content should help buyers and internal teams connect product story, market value, and commercial outcomes.
-
-### Post 2
-- Date: 5 days ago
-- Access Method: manual screenshot capture
 - Topic: The five predictable reasons most GTM strategies fail.
 - Summary: Maria argues that GTM failure is usually not random. She identifies five recurring breakdown points: unclear positioning, cross-functional misalignment, weak sales enablement, lack of adoption focus, and no connection to revenue outcomes. The post is concise, but commercially strong because it turns broad GTM frustration into a practical diagnostic framework.
 - Key Insight: GTM succeeds when positioning is clear, teams are aligned, and execution is tied directly to adoption and revenue rather than isolated activities.
 - Relevance to B2B SaaS LinkedIn organic strategy: Highly relevant because it provides a repeatable framework for content that connects strategic clarity to business outcomes.
 - Reusable Takeaway: Strong LinkedIn content can diagnose where GTM breaks down and translate strategic issues into a simple, commercial logic the market can understand.
+
+### Post 2
+- Date: 7 days ago
+- Access Method: manual screenshot capture
+- Topic: GTM fails when product value is not clearly connected to positioning, alignment, and revenue.
+- Summary: Maria explains that strong products often underperform because positioning is unclear, sales cannot articulate value, and teams are not aligned. She shows how simplifying the narrative and aligning product, sales, and marketing improves adoption and revenue.
+- Key Insight: Clear positioning and cross-functional alignment are not branding exercises; they are direct revenue levers.
+- Relevance to B2B SaaS LinkedIn organic strategy: Highly relevant because it models how LinkedIn content can explain GTM failure points in a commercially clear, story-driven way.
+- Reusable Takeaway: Organic content should help buyers and internal teams connect product story, market value, and commercial outcomes.
 
 ### Post 3
 - Date: 6 days ago

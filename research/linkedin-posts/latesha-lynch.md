@@ -5,7 +5,7 @@
 - Role: Fractional CMO / Market Activation Strategist
 - Company: Her Marketing Coach
 - Platform: LinkedIn
-- Profile Link: [linkedin.com/in/lateshalynch]
+- Profile Link: https://www.linkedin.com/in/lateshalynch/
 
 ## Selection Rationale
 - Why this expert was selected: Strong operator-style content on positioning, visibility, market perception, and pre-sales influence.

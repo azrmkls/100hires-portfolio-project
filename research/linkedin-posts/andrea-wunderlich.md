@@ -5,15 +5,14 @@
 - Role: GTM operator
 - Company: MarginEdge
 - Platform: LinkedIn
-- Profile Link: [linkedin.com/in/andrea-wunderlich]
+- Profile Link: https://www.linkedin.com/in/andrea-wunderlich/
 
 ## Selection Rationale
 - Why this expert was selected: Strong operator voice with practical growth-stage SaaS leadership and clear cross-functional GTM thinking.
 - What strategic lens this expert adds to the research: Adds a market-understanding and segmentation lens that goes beyond surface firmographics into operational reality.
 
 ## Reviewed Content Dates
-- 1 month ago 
-- 1 month ago 
+- 1 month ago (2 sampled posts)
 
 ## Reviewed Posts
 

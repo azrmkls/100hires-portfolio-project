@@ -136,5 +136,5 @@ The goal is not to collect the biggest names, but to identify practitioners whos
 
 ### Eric Standlee
 - Role: Alternative Funding Expert
-- LinkedIn: [paste profile link]
+- LinkedIn: [linkedin.com/in/ericstandlee]
 - Reason excluded: Strong expert in finance and alternative funding, but not relevant enough to the chosen topic of LinkedIn organic content strategy for B2B SaaS.

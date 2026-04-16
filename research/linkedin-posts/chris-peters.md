@@ -12,9 +12,7 @@
 - What strategic lens this expert adds to the research: Expands LinkedIn organic beyond posting for engagement into trust, influence, and pipeline impact.
 
 ## Reviewed Content Dates
-- 1 hour ago (sampled post)
-- [Recent profile/about review via screenshot]
-- [Add more dates if collected later]
+- 1 hour ago
 
 ## Reviewed Posts
 

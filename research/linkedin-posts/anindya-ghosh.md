@@ -14,8 +14,6 @@
 ## Reviewed Content Dates
 - 1 year ago
 - 1 year ago
-- [Recent profile/about review via screenshot]
-- [Add more dates if collected later]
 
 ## Reviewed Posts
 

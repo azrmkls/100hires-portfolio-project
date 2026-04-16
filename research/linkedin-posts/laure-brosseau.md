@@ -17,8 +17,6 @@ laure-brosseau.md
 - 6 days ago
 - 3 weeks ago
 - 2 weeks ago
-- [Recent profile/about review via screenshot]
-- [Add more dates if collected later]
 
 ## Reviewed Posts
 

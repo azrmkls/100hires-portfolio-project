@@ -12,7 +12,7 @@
 - What strategic lens this expert adds to the research: Adds a market-understanding and segmentation lens that goes beyond surface firmographics into operational reality.
 
 ## Reviewed Content Dates
-- 1 month ago (2 sampled posts)
+- 1 month ago (2 reviewed posts)
 
 ## Reviewed Posts
 

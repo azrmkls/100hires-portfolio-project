@@ -14,7 +14,7 @@ leonhard-draxl.md
 - What strategic lens this expert adds to the research: Shows how organic content can support market education and commercial clarity in complex SaaS environments.
 
 ## Reviewed Content Dates
-- 1 year ago (2 sampled posts)
+- 1 year ago (2 reviewed posts)
 
 ## Reviewed Posts
 

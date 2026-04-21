@@ -12,7 +12,7 @@
 - What strategic lens this expert adds to the research: Treats marketing as growth infrastructure rather than just communications.
 
 ## Reviewed Content Dates
-- 1 year ago (2 sampled posts)
+- 1 year ago (2 reviewed posts)
 
 ## Reviewed Posts
 

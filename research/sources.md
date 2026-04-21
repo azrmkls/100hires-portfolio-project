@@ -52,7 +52,7 @@ The goal is not to collect the biggest names, but to identify practitioners whos
 - LinkedIn: https://www.linkedin.com/in/leodraxl/
 - Main platform: LinkedIn
 - Source types available: LinkedIn posts
-- Reviewed content date: 1 year ago, (2 sampled posts)
+- Reviewed content date: 1 year ago, (2 reviewed posts)
 - Why selected: Sharp product marketing lens with repeatable GTM thinking.
 - Brief annotation: Useful for understanding how organic content supports market education and commercial clarity.
 
@@ -62,7 +62,7 @@ The goal is not to collect the biggest names, but to identify practitioners whos
 - LinkedIn: https://www.linkedin.com/in/anindyaaghosh
 - Main platform: LinkedIn
 - Source types available: LinkedIn posts
-- Reviewed content date: 1 year ago (2 sampled posts)
+- Reviewed content date: 1 year ago (2 reviewed posts)
 - Why selected: Treats marketing as growth infrastructure, not just communication.
 - Brief annotation: High-value source for connecting narrative, demand systems, product value articulation, and pipeline impact.
 
@@ -82,7 +82,7 @@ The goal is not to collect the biggest names, but to identify practitioners whos
 - LinkedIn: https://www.linkedin.com/in/andrea-wunderlich/
 - Main platform: LinkedIn
 - Source types available: LinkedIn posts
-- Reviewed content date: 1 month ago (2 sampled posts)
+- Reviewed content date: 1 month ago (2 reviewed posts)
 - Why selected: Strong operator voice with useful segmentation thinking beyond surface firmographics.
 - Brief annotation: Very strong source for strategic content, market understanding, and segmentation rooted in real customer context.
 
@@ -102,7 +102,7 @@ The goal is not to collect the biggest names, but to identify practitioners whos
 - LinkedIn: https://www.linkedin.com/in/ryan-devlin13/
 - Main platform: LinkedIn
 - Source types available: LinkedIn posts
-- Reviewed content date: 6 days ago, 1 week ago (2 sampled posts)
+- Reviewed content date: 6 days ago, 1 week ago (2 reviewed posts)
 - Why selected: Good at explaining why growth breaks when departments optimize separately.
 - Brief annotation: Useful for understanding the overlap between marketing, sales, retention, and shared commercial outcomes.
 
@@ -112,7 +112,7 @@ The goal is not to collect the biggest names, but to identify practitioners whos
 - LinkedIn: https://www.linkedin.com/in/alice-chandrasekaran/
 - Main platform: LinkedIn
 - Source types available: LinkedIn posts
-- Reviewed content date:  6 days ago, 1 week ago, 4 months ago (2 sampled posts)
+- Reviewed content date:  6 days ago, 1 week ago, 4 months ago (2 reviewed posts)
 - Why selected: Brings a measurable execution lens and links strategy to operating discipline.
 - Brief annotation: Strong source for execution, GTM alignment, maturity frameworks, and turning strategy into operating decisions.
 

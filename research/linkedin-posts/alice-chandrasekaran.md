@@ -14,7 +14,7 @@
 ## Reviewed Content Dates
 - 6 days ago
 - 1 week ago
-- 4 months ago (2 sampled posts)
+- 4 months ago (2 reviewed posts)
 
 ## Reviewed Posts
 

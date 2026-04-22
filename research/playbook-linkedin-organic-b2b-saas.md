@@ -244,7 +244,7 @@ B2B SaaS LinkedIn organic becomes more valuable when it works like a reusable ex
 
 A major weakness in weak LinkedIn strategies is that teams evaluate content mainly through likes, impressions, or surface engagement. Several experts in this repository push against that.
 
-Ryan Devlin’s work is relevant because he repeatedly shows that strong growth decisions require shared commercial definitions and better interpretation of what the signals actually mean. In his framing, activity metrics by themselves can hide structural problems. (source: Ryan Devlin, research/linkedin-posts/ryan-devlin.md, Post 2, reviewed date: 6 days ago, 1 week ago.)
+Ryan Devlin’s work is relevant because he repeatedly shows that strong growth decisions require shared commercial definitions and better interpretation of what the signals actually mean. In his framing, activity metrics by themselves can hide structural problems. (source: Ryan Devlin, research/linkedin-posts/ryan-devlin.md, Post 1, reviewed date: 6 days ago; Ryan Devlin, research/linkedin-posts/ryan-devlin.md, Post 2, reviewed date: 1 week ago)
 
 Alice Chandrasekaran also makes this point in a more direct operating way. Her content on forecasting, execution, and revenue systems suggests that teams often trust the wrong surface signals and miss the operating indicators that actually shape outcomes. That logic applies to LinkedIn organic too: engagement matters, but it is not the final score. (source: Alice Chandrasekaran, research/linkedin-posts/alice-chandrasekaran.md, Post 1, reviewed date: 6 days ago; Alice Chandrasekaran, research/linkedin-posts/alice-chandrasekaran.md, Post 2, reviewed date: 1 week ago)
 
@@ -267,7 +267,7 @@ Layer 2 — Commercial signals
 - did it improve category recognition or trust?  
 - did it lead to higher-quality conversations, not just more attention?  
 
-(source: Ryan Devlin, research/linkedin-posts/ryan-devlin.md, Post 2, reviewed date: 5 days ago; Alice Chandrasekaran, research/linkedin-posts/alice-chandrasekaran.md, Post 1, reviewed date: 6 days ago; Latesha Lynch, research/linkedin-posts/latesha-lynch.md, Post 1, reviewed date: 1 week ago)
+(source: Ryan Devlin, research/linkedin-posts/ryan-devlin.md, Post 1, reviewed date: 6 days ago; Alice Chandrasekaran, research/linkedin-posts/alice-chandrasekaran.md, Post 1, reviewed date: 6 days ago; Latesha Lynch, research/linkedin-posts/latesha-lynch.md, Post 1, reviewed date: 1 week ago)
 
 Why this matters:  
 If the review system only rewards visible engagement, the content system will drift toward noise. If it rewards commercial usefulness, the content system becomes more strategically valuable over time.

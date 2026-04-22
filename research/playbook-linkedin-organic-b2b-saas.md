@@ -90,15 +90,6 @@ Molly Conway repeatedly frames strong GTM and messaging as a buyer research prob
 
 Andrea Wunderlich reinforces this from a different angle. She argues that teams often segment the market using top-level attributes like company size, revenue band, or operating model, but those labels often fail to reveal the actual operating situation the buyer is in. Her “job-led segmentation” thinking suggests that content becomes more useful when it reflects what customers are trying to stabilize, build, fix, or scale rather than abstract firmographic labels. (source: Andrea Wunderlich, research/linkedin-posts/andrea-wunderlich.md, Post 1, reviewed date: 1 month ago; Andrea Wunderlich, research/linkedin-posts/andrea-wunderlich.md, Post 2, reviewed date: 1 month ago)
 
-Recommendation: Before building a LinkedIn content plan, create a buyer-understanding brief with five fields:
-1. buyer problem
-2. job-to-be-done
-3. category language
-4. objections / confusion points
-5. commercial consequence if unresolved
-
-(source: Molly Conway, research/linkedin-posts/molly-conway.md, Post 2, reviewed date: 4 weeks ago; Molly Conway, research/linkedin-posts/molly-conway.md, Post 1, reviewed date: 1 week ago; Andrea Wunderlich, research/linkedin-posts/andrea-wunderlich.md, Post 1, reviewed date: 1 month ago; Andrea Wunderlich, research/linkedin-posts/andrea-wunderlich.md, Post 2, reviewed date: 1 month ago)
-
 Recommendation:
 Before building a LinkedIn content plan, create a buyer-understanding brief with five fields:
 1. buyer problem
@@ -106,6 +97,7 @@ Before building a LinkedIn content plan, create a buyer-understanding brief with
 3. category language
 4. objections / confusion points
 5. commercial consequence if unresolved
+
 (source: Molly Conway, research/linkedin-posts/molly-conway.md, Post 1, reviewed date: 1 week ago; Molly Conway, research/linkedin-posts/molly-conway.md, Post 2, reviewed date: 4 weeks ago; Andrea Wunderlich, research/linkedin-posts/andrea-wunderlich.md, Post 1, reviewed date: 1 month ago; Andrea Wunderlich, research/linkedin-posts/andrea-wunderlich.md, Post 2, reviewed date: 1 month ago)
 
 Why this matters:
@@ -252,7 +244,7 @@ B2B SaaS LinkedIn organic becomes more valuable when it works like a reusable ex
 
 A major weakness in weak LinkedIn strategies is that teams evaluate content mainly through likes, impressions, or surface engagement. Several experts in this repository push against that.
 
-Ryan Devlin’s work is relevant because he repeatedly shows that strong growth decisions require shared commercial definitions and better interpretation of what the signals actually mean. In his framing, activity metrics by themselves can hide structural problems. (source: Ryan Devlin, research/linkedin-posts/ryan-devlin.md, Post 2, reviewed date: 5 days ago)
+Ryan Devlin’s work is relevant because he repeatedly shows that strong growth decisions require shared commercial definitions and better interpretation of what the signals actually mean. In his framing, activity metrics by themselves can hide structural problems. (source: Ryan Devlin, research/linkedin-posts/ryan-devlin.md, Post 2, reviewed date: 6 days ago, 1 week ago.)
 
 Alice Chandrasekaran also makes this point in a more direct operating way. Her content on forecasting, execution, and revenue systems suggests that teams often trust the wrong surface signals and miss the operating indicators that actually shape outcomes. That logic applies to LinkedIn organic too: engagement matters, but it is not the final score. (source: Alice Chandrasekaran, research/linkedin-posts/alice-chandrasekaran.md, Post 1, reviewed date: 6 days ago; Alice Chandrasekaran, research/linkedin-posts/alice-chandrasekaran.md, Post 2, reviewed date: 1 week ago)
 
@@ -381,9 +373,7 @@ I did not find this exact scoring model in the sources, but I think it could wor
 
 This playbook is usable, but it is not complete. There are real weaknesses in it, and I think they should be stated directly.
 
-### 1.
-
-The source set is strong on strategic framing, but weaker on tested posting operations
+### 1. The source set is strong on strategic framing, but weaker on tested posting operations
 
 Most of the strongest experts in this repository are better at GTM reasoning, positioning, buyer understanding, revenue alignment, and commercial clarity than they are at giving step-by-step posting mechanics. That makes this playbook stronger on what good content strategy should be built on than on exact cadence, format mix, or distribution tactics. (source: research/sources.md; Molly Conway, research/linkedin-posts/molly-conway.md, Post 2, reviewed date: 4 weeks ago; Maria Elia, research/linkedin-posts/maria-elia.md, Post 1, reviewed date: 6 days ago)
 
@@ -439,50 +429,3 @@ If I had to reduce the whole playbook to one sentence, it would be this:
 B2B SaaS LinkedIn organic works best when it is treated as part of the GTM system, not as a separate personal-brand activity.
 
 (source: Molly Conway, research/linkedin-posts/molly-conway.md, Post 3, reviewed date: 1 month ago; Maria Elia, research/linkedin-posts/maria-elia.md, Post 2, reviewed date: 1 week ago; Alice Chandrasekaran, research/linkedin-posts/alice-chandrasekaran.md, Post 1, reviewed date: 6 days ago)
-
----
-
-### Important clarification
-
-I am not saying these experts should be ignored entirely. I am saying that if I were advising someone to study this exact topic efficiently, I would direct them first toward the Type A group because those sources are more tightly aligned to the specific problem, more reusable, and more consistent in strategic relevance.
-## Final conclusion
-
-Across the source set, the strongest pattern is clear:
-
-LinkedIn organic content for B2B SaaS works best when it is treated as part of a real GTM system, not as a standalone posting habit.
-
-The highest-value experts in this repository repeatedly point toward the same core truth from different angles:
-
-- better content starts with better buyer understanding
-- positioning must be anchored in real customer problems
-- visibility matters, but only after message quality is strong
-- content should be evaluated through commercial usefulness, not vanity metrics
-- cross-functional alignment produces stronger content than isolated marketing output
-
-My final position is that B2B SaaS LinkedIn organic should be built around:
-1. buyer research
-2. positioning clarity
-3. customer-problem framing
-4. commercial usefulness
-5. repeatable message systems
-
-That is the foundation I would recommend to a real operator trying to make LinkedIn content more strategic, more trustworthy, and more useful to the business.
-## Source index
-
-Primary expert files used for this playbook:
-
-1. Molly Conway — research/linkedin-posts/molly-conway.md
-2. Latesha Lynch — research/linkedin-posts/latesha-lynch.md
-3. Chris Peters — research/linkedin-posts/chris-peters.md
-4. Leonhard Draxl — research/linkedin-posts/leonhard-draxl.md
-5. Anindya Ghosh — research/linkedin-posts/anindya-ghosh.md
-6. Laure Brosseau — research/linkedin-posts/laure-brosseau.md
-7. Andrea Wunderlich — research/linkedin-posts/andrea-wunderlich.md
-8. Maria Elia — research/linkedin-posts/maria-elia.md
-9. Ryan Devlin — research/linkedin-posts/ryan-devlin.md
-10. Alice Chandrasekaran — research/linkedin-posts/alice-chandrasekaran.md
-
-Repository-level supporting document:
-- research/sources.md
-
-This index exists to make the playbook auditable. Every major recommendation, disagreement, rejection, and judgment call in this document is grounded in the source files above.
